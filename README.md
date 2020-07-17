@@ -3,7 +3,7 @@ Repo to show how to create Redis Master Slave + Sentinel
 
 # Making of on Youtube
 
-Youtube: https://youtu.be/FP7Hs8lTy1k
+Youtube: https://www.youtube.com/watch?v=-a07Ief51H4
 
 # Buy me a drink? :)
 
